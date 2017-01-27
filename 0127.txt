@@ -1,3 +1,5 @@
 2017-01-27
 task : read prez code 
 task accomplished 
+
+some summary are list as follows:
